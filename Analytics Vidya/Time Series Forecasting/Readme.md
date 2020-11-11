@@ -10,4 +10,4 @@ Achieved Root Mean Squre Error (RMSE) of 643.32
 
 
 
-![Alt text](https://github.com/sainivedh/Time-Series/blob/main/Air%20Passengers/Air%20Passengers_truevspred_plot.png?raw=true "True Passengers vs Predicted Passengers")
+![Alt text](https://github.com/sainivedh/ML-DL_Competitions/blob/master/Analytics%20Vidya/Time%20Series%20Forecasting/plot_pass_vs_date.png?raw=true)
